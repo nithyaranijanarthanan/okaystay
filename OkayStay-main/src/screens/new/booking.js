@@ -1,6 +1,6 @@
 import React from 'react';
 import { 
-    View, 
+    View, //views
     Dimensions, 
     StyleSheet, 
     SafeAreaView, 
